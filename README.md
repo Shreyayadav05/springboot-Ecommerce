@@ -1,5 +1,3 @@
-
-
 # E-commerce Spring Boot (JSP + Hibernate)
 
 Production-oriented Java e-commerce web application built with Spring Boot, JSP, Spring Security, and Hibernate SessionFactory.
@@ -12,9 +10,6 @@ This project follows a layered MVC architecture and supports role-based access f
  
 <p>A production-oriented Java e-commerce web application built with Spring Boot, JSP, Spring Security, and Hibernate — featuring role-based access for admin and customer workflows.</p>
 <br/>
-
-
-
 <br/>
 
 ## Highlights
@@ -28,9 +23,6 @@ This project follows a layered MVC architecture and supports role-based access f
 - Jenkins pipeline file included for CI/CD bootstrap
 
 ## Tech Stack
-
-
-
 - Java 11
 - Spring Boot 2.6.4
 - Spring MVC
